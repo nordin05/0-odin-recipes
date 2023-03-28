@@ -1,0 +1,29 @@
+.title,
+.title2,
+.list {
+    text-align: center;
+}
+
+.title {
+    background-color: brown;
+    color: rgb(245, 196, 196);   
+    font-size: 38px;
+}
+
+.center {        
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-weight: 800;
+}
+
+.title2 {
+    background-color: rgb(228, 113, 113);
+    color: rgb(255, 255, 255);   
+    font-size: 25px;
+}
+
